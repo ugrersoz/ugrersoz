@@ -4,7 +4,7 @@
 **ugrersoz/ugrersoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 -Hey, I'm Uğur* 🙌
 I'm a [Product Developer](https://www.linkedin.com/in/ersozugur/) 🧙‍♂️
 
