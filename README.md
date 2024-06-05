@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-**Hey, I'm Uğur** 🙌
+Hey, I'm Uğur* 🙌
 I'm a [Product Developer](https://www.linkedin.com/in/ersozugur/) 🧙‍♂️
 
 Feel free to reach me 👇
