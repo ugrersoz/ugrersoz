@@ -13,4 +13,4 @@ Feel free to reach me 👉
 
 Projects
 🧬 [Capstone Project](https://github.com/ugrersoz/Capstone_Project)
--->
+
