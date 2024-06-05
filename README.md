@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -Hey, I'm Uğur* 🙌
 I'm a [Product Developer](https://www.linkedin.com/in/ersozugur/) 🧙‍♂️
 
--Feel free to reach me 👇
+-Feel free to reach me 👉
 ✉️ [uersoz55@gmail.com](mailto:uersoz55@gmail.com) 
 
 -Projects
