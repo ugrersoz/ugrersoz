@@ -14,3 +14,6 @@ Feel free to reach me 👉
 Projects
 🧬 [Capstone Project](https://github.com/ugrersoz/Capstone_Project)
 
+CV-Resume
+📌[CV-Resume](https://github.com/ugrersoz/cv-resume)
+
